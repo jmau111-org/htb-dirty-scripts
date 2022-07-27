@@ -1,6 +1,6 @@
 # Shared
 
-Rated as easy, the box involves classic web exploitation, but the root flag requires hacking with Redis:
+The box involves classic web exploitation, but the root flag requires hacking with Redis:
 
 ```sh
 # hack.sh
