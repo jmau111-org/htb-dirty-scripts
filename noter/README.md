@@ -1,6 +1,6 @@
 # Noter
 
-Rated as medium, the box will put your logic to the test.
+The box will put your logic to the test.
 
 At the beginning, to access the targeted backend, I needed this tiny Bash script:
 
