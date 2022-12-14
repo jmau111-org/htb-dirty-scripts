@@ -8,7 +8,7 @@ This repo discloses some manual scripts I had to write to get things done.
 
 1. [Noter](noter)
 2. [Shared](shared)
-3. [Updown](updown)a
+3. [Updown](updown)
 
 ## Disclaimer
 
