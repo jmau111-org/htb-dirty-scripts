@@ -4,6 +4,12 @@ Hack The Box is a hacking platform that provides various kinds of challenges and
 
 This repo discloses some manual scripts I had to write to get things done.
 
+## Table of Contents
+
+1. Noter
+2. Shareda
+3. Updown
+
 ## Disclaimer
 
 All my dirty scripts, and I can't insist more on the term "dirty", are provided for convenience. There's no context and it's on purpose.
