@@ -6,9 +6,9 @@ This repo discloses some manual scripts I had to write to get things done.
 
 ## Table of Contents
 
-1. Noter
-2. Shareda
-3. Updown
+1. [Noter](noter)
+2. [Shared](shared)
+3. [Updown](updown)a
 
 ## Disclaimer
 
