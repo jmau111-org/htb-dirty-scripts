@@ -1,6 +1,6 @@
 # Quick and dirty scripts for HTB
 
-Hack The Box is a hacking platform that provides various kinds of challenges and machines to hack.
+Hack The Box is a hacking platform that provides various kinds of challenges and machines to hack. 😈
 
 This repo discloses some manual scripts I had to write to get things done.
 
