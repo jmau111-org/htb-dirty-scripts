@@ -16,4 +16,4 @@ All my dirty scripts, and I can't insist more on the term "dirty", are provided 
 
 Indeed, **the idea is not give you a full writeup**.
 
-Besides, you will likely find some ways to improve the code, as the idea is to get the desired information quick, but during a CTF, it's hard to produce the perfect script.
+Besides, you will likely find some ways to improve the code, as the idea is to get the desired information quick, but during a CTF, it's useless to look for the perfect script.
